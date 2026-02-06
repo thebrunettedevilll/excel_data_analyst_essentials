@@ -1,10 +1,10 @@
-# Excel Data Analysis Essentials – Practice Files
+#Excel Data Analysis Essentials – Practice Files
 
 This folder contains Excel practice files focused on core data analysis concepts and functions.
 
 The files demonstrate fundamental Excel techniques used in data analysis, including descriptive statistics, conditional calculations, and pivot tables.
 
-## Files included
+##Files included
 
 - `average_sum_median_max.xlsx`  
   Basic descriptive statistics calculations, including average, sum, median, and maximum values.
@@ -18,14 +18,14 @@ The files demonstrate fundamental Excel techniques used in data analysis, includ
 - `raw_data.xlsx`  
   Raw dataset used for calculations and analysis across the files.
 
-## Skills demonstrated
+##Skills demonstrated
 - Excel formulas (AVERAGE, SUM, MEDIAN, MAX, SUMIF)
 - Data summarization
 - Pivot tables
 - Basic data analysis concepts
 - Working with raw datasets
 
-## Tools
+##Tools
 - Microsoft Excel
 
 These files were created as part of an Excel data analysis curriculum and organized for portfolio presentation.
